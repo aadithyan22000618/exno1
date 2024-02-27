@@ -1,3 +1,6 @@
+<h1 align="center">Ex. 1   Data Cleaning and Outlier Detection & Removal</h1>
+
+
 ## AIM
 ### To read the given data and perform data cleaning and save the cleaned data to a file.
 
