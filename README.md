@@ -27,6 +27,8 @@
 #### Use zscore of to remove outliers
 
 ## Coding and Outputs
+Aadithyan R
+212222230001
 
 <h3 align="center">Data Cleaning</h3>
 
